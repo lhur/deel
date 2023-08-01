@@ -8,6 +8,10 @@
 
 ## Start the app
 
+First install nx bundler, to run the application `npm install --global nx@latest`.
+
+After cloning the application, run `npm install`.
+
 To start the development server run `nx serve deel`. Open your browser and navigate to http://localhost:4200/.
 And see the magic happen's
 
